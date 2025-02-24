@@ -87,7 +87,7 @@ const HomeChat = () => {
     return (
         <div className="home_chat_container">
             <div className="home_chat_title">
-                Secret Chat
+                Error Chat
             </div>
             <div className="home_video_container">
                 <video ref={localVideoRef} autoPlay playsInline style={{ width: "50%" }} />
